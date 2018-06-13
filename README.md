@@ -1,4 +1,4 @@
-# [Landing Page - Citra](https://gabrielalmeida07.github.io/projeto-citra/)
+# Acesse o projeto:[Landing Page - Citra](https://gabrielalmeida07.github.io/projeto-citra/)
 
 
 ## Estrutura tecnológica da aplicação:
